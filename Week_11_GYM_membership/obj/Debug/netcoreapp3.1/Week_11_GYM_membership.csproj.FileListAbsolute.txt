@@ -1,0 +1,13 @@
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\bin\Debug\netcoreapp3.1\Week_11_GYM_membership.exe
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\bin\Debug\netcoreapp3.1\Week_11_GYM_membership.deps.json
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\bin\Debug\netcoreapp3.1\Week_11_GYM_membership.runtimeconfig.json
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\bin\Debug\netcoreapp3.1\Week_11_GYM_membership.runtimeconfig.dev.json
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\bin\Debug\netcoreapp3.1\Week_11_GYM_membership.dll
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\bin\Debug\netcoreapp3.1\Week_11_GYM_membership.pdb
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\obj\Debug\netcoreapp3.1\Week_11_GYM_membership.csprojAssemblyReference.cache
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\obj\Debug\netcoreapp3.1\Week_11_GYM_membership.AssemblyInfoInputs.cache
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\obj\Debug\netcoreapp3.1\Week_11_GYM_membership.AssemblyInfo.cs
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\obj\Debug\netcoreapp3.1\Week_11_GYM_membership.csproj.CoreCompileInputs.cache
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\obj\Debug\netcoreapp3.1\Week_11_GYM_membership.dll
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\obj\Debug\netcoreapp3.1\Week_11_GYM_membership.pdb
+G:\College\Year 2\Unit 4 Software Design and Development Project\Week 11\Week_11_GYM_membership\obj\Debug\netcoreapp3.1\Week_11_GYM_membership.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Week_11_GYM_membership/1.0.0": {
+        "runtime": {
+          "Week_11_GYM_membership.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week_11_GYM_membership/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
